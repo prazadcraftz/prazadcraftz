@@ -77,15 +77,6 @@
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prazadcraftz&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top languages" />
 </p>
 
-## 🏆 Achievements
-
-- 🧠 Solved **150+** DSA problems across coding platforms
-- 📈 Achieved a **1443** rating on LeetCode
-- 🥈 Finalist — **HackWithTricity Hackathon**
-- 🚀 Participant — **Zinnovation 2.0 Hackathon**
-- 📜 **GitHub Foundations** Certified
-- ☁️ **Microsoft Azure AI Fundamentals** Certified
-
 ## 📚 Certifications
 
 - GitHub Foundations — GitHub
