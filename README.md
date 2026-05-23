@@ -17,20 +17,11 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🧩 LeetCode Profile
 
 <p align="center">
-  <a href="https://github.com/prazadcraftz">
-    <img src="https://img.shields.io/badge/GitHub-0b1220?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/dasaribhanuprasad/">
-    <img src="https://img.shields.io/badge/LinkedIn-0b1220?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
-  </a>
   <a href="https://leetcode.com/u/Zenith09/">
-    <img src="https://img.shields.io/badge/LeetCode-0b1220?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
-  </a>
-  <a href="mailto:itsbhanudasari@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0b1220?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+    <img src="https://leetcard.jacoblin.cool/Zenith09?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode profile card" />
   </a>
 </p>
 
@@ -146,6 +137,23 @@ Machine learning model predicting Formula 1 race lap times using telemetry and w
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/prazadcraftz/prazadcraftz/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+</p>
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/prazadcraftz">
+    <img src="https://img.shields.io/badge/GitHub-0b1220?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/dasaribhanuprasad/">
+    <img src="https://img.shields.io/badge/LinkedIn-0b1220?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/Zenith09/">
+    <img src="https://img.shields.io/badge/LeetCode-0b1220?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
+  </a>
+  <a href="mailto:itsbhanudasari@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0b1220?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+  </a>
 </p>
 
 <p align="center">
