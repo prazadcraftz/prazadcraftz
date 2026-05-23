@@ -54,28 +54,19 @@
 ### Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Python-0b1220?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-0b1220?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-0b1220?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/SQL-0b1220?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="SQL" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql&theme=dark" alt="Languages" />
 </p>
 
 ### AI / Machine Learning
 
 <p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-0b1220?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/XGBoost-0b1220?style=for-the-badge&logo=apache&logoColor=white" alt="XGBoost" />
-  <img src="https://img.shields.io/badge/CNN--LSTM-0b1220?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="CNN-LSTM" />
-  <img src="https://img.shields.io/badge/FastF1-0b1220?style=for-the-badge&logo=formula1&logoColor=E10600" alt="FastF1" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark" alt="AI and ML" />
 </p>
 
 ### Development
 
 <p>
-  <img src="https://img.shields.io/badge/Flutter-0b1220?style=for-the-badge&logo=flutter&logoColor=02569B" alt="Flutter" />
-  <img src="https://img.shields.io/badge/React-0b1220?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Git-0b1220?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-0b1220?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=flutter,react,git,github,vscode&theme=dark" alt="Development" />
 </p>
 
 ## 📈 GitHub Stats
