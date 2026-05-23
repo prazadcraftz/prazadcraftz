@@ -17,14 +17,6 @@
 
 ---
 
-## 🧩 LeetCode Profile
-
-<p align="center">
-  <a href="https://leetcode.com/u/Zenith09/">
-    <img src="https://leetcard.jacoblin.cool/Zenith09?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode profile card" />
-  </a>
-</p>
-
 ## 🚀 About Me
 
 - 🤖 AI & ML developer focused on practical intelligent systems
@@ -45,7 +37,7 @@
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,mysql&theme=dark" alt="Languages" />
 </p>
 
 ### AI / Machine Learning
@@ -58,6 +50,20 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=flutter,react,git,github,vscode&theme=dark" alt="Development" />
+</p>
+
+### Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=azure&theme=dark" alt="Cloud" />
+</p>
+
+## 🧩 LeetCode Profile
+
+<p align="center">
+  <a href="https://leetcode.com/u/Zenith09/">
+    <img src="https://leetcard.jacoblin.cool/Zenith09?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode profile card" />
+  </a>
 </p>
 
 ## 📈 GitHub Stats
