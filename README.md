@@ -7,14 +7,13 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=700&color=A970FF&center=true&vCenter=true&width=900&height=50&lines=Building+intelligent+systems+with+beautiful+interfaces;AI+%26+ML+Student;Flutter+Developer;Deep+Learning+Enthusiast;DSA+Problem+Solver"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=700&color=A970FF&center=true&vCenter=true&width=900&height=50&lines=AI+%26+ML+Student;Flutter+Developer;Deep+Learning+Enthusiast;DSA+Problem+Solver"
     alt="Animated intro"
   />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prazadcraftz&style=for-the-badge&color=a970ff" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/prazadcraftz?style=for-the-badge&color=6c63ff&labelColor=1f1f2e" alt="GitHub followers" />
 </p>
 
 ---
