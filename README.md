@@ -1,13 +1,13 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Dasari%20Bhanu%20Prasad&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Flutter%20%7C%20Machine%20Learning&descSize=22&descAlignY=58&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Dasari%20Bhanu%20Prasad&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning&descSize=22&descAlignY=58&animation=fadeIn"
     alt="Profile banner"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=700&color=A970FF&center=true&vCenter=true&width=900&height=50&lines=AI+%26+ML+Student;Flutter+Developer;Deep+Learning+Enthusiast;DSA+Problem+Solver"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=700&color=A970FF&center=true&vCenter=true&width=900&height=50&lines=AI+%26+ML+Student;Deep+Learning+Enthusiast;DSA+Problem+Solver"
     alt="Animated intro"
   />
 </p>
@@ -15,6 +15,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prazadcraftz&style=for-the-badge&color=a970ff" alt="Profile views" />
 </p>
+
+  ![Daily Quote](https://readmeme.eu.cc/api/quote.svg?theme=paper&quoteCategory=programming&label=Local+Time)
 
 ---
 
@@ -129,12 +131,6 @@ Machine learning model predicting Formula 1 race lap times using telemetry and w
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prazadcraftz&theme=tokyo-night&hide_border=true&bg_color=00000000" alt="Contribution graph" />
-</p>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/prazadcraftz/prazadcraftz/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 </p>
 
 ## 🌐 Connect With Me
