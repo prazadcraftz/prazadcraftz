@@ -1,13 +1,13 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Dasari%20Bhanu%20Prasad&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning&descSize=22&descAlignY=58&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Dasari%20Bhanu%20Prasad&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Machine%20Learning%20%7C%20RAG%20%7C%20LangChain&descSize=22&descAlignY=58&animation=fadeIn"
     alt="Profile banner"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=700&color=A970FF&center=true&vCenter=true&width=900&height=50&lines=AI+%26+ML+Student;Deep+Learning+Enthusiast;DSA+Problem+Solver"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=700&color=A970FF&center=true&vCenter=true&width=900&height=50&lines=AI+%26+ML+Engineer+in+the+Making;Building+Systems+That+Learn;CNN+%7C+XGBoost+%7C+RAG+%7C+Flutter;Turning+Data+into+Real-World+Impact;Open+to+Opportunities+%F0%9F%9A%80"
     alt="Animated intro"
   />
 </p>
@@ -16,7 +16,9 @@
   <img src="https://komarev.com/ghpvc/?username=prazadcraftz&style=for-the-badge&color=a970ff" alt="Profile views" />
 </p>
 
-  ![Daily Quote](https://readmeme.eu.cc/api/quote.svg?theme=paper&quoteCategory=programming&label=Local+Time)
+<p align="center">
+  <img src="https://readmeme.eu.cc/api/quote.svg?theme=paper&quoteCategory=programming&label=Local+Time" alt="Daily Quote" />
+</p>
 
 ---
 
